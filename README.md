@@ -29,12 +29,12 @@
 
    ***Original District Summary***
    
-   ![Original_district_summary](Resources/Original_district_summary.png)
+   ![Original_district_summary](resources/Original_district_summary.png)
    
    
    ***Updated District Summary (after replacing 9th grades with NaN values for THS)***
    
-   ![district_summary_df](Resources/district_summary_df.png)
+   ![district_summary_df](resources/district_summary_df.png)
 
 
 - *How is the school summary affected?*
@@ -49,12 +49,12 @@
    
    ***Original School Summary***
    
-   ![THS_Original_school_summary](Resources/THS_Original_school_summary.png)
+   ![THS_Original_school_summary](resources/THS_Original_school_summary.png)
    
    
    ***Updated School Summary w/o THS***
    
-   ![High_performing_schools](Resources/High_performing_schools.png)
+   ![High_performing_schools](resources/High_performing_schools.png)
    
  - *How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?*
    - The performance % decreases is only 0.5% (from 90.95% to 90.63%) .
