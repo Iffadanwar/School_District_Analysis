@@ -1,7 +1,7 @@
 # School_District_Analysis
 
 ##Overview of Project
-###The analysis of a school district and their standardized test scores to show preformance and school trends. The result of this analysis will allow the school board to make disitions on the school budget what need to be done.
+###The analysis of a school district and their standardized test scores to show performance and school trends. The result of this analysis will allow the school board to make decisions on the school budget what need to be done.
 
 ### The Analysis should include the following information:
 
